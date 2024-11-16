@@ -2,6 +2,7 @@
 
 Custom kernel source for enabling Kali NetHunter functionalities on the Samsung Galaxy J7 Prime (models G610F, G610Y, and G610M)
 Only supports Samsung Experience stock and stock based roms Android 8.1.0
+Based source on Oxygen Kernel 
 
 ## Features
 - **Compatible Models:** Samsung Galaxy J7 Prime (G610F/Y/M)
